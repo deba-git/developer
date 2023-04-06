@@ -7,4 +7,4 @@
 &nbsp;
 ***
 ## **Netlify Live Link**
-- [DEveloper](https://developers-home-page.netlify.app/)
+- [Developer](https://developers-home-page.netlify.app/)
